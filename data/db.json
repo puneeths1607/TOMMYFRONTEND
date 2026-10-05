@@ -1,0 +1,590 @@
+{
+  "CoverIMG": [
+    {
+      "id": "1",
+      "img": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/a7d3676a-9694-4a84-835e-0408fdad884b1598892377407-Nike.jpg",
+      "title": "Nike",
+      "category": "Mens"
+    },
+    {
+      "id": "2",
+      "img": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/0206da63-a7cc-4f83-8527-90d7dc74706b1598892377489-Skechers.jpg",
+      "title": "Skechers",
+      "category": "Mens"
+    },
+    {
+      "id": "3",
+      "img": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/3fa337a0-c792-4038-8d12-50d463c189a11598892377363-Levis.jpg",
+      "title": "Levis",
+      "category": "Mens"
+    },
+    {
+      "id": "4",
+      "img": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/d977e7ac-67dd-4fa6-b922-fe0057385dfa1598892377205-Crocs.jpg",
+      "title": "Crocs",
+      "category": "Mens"
+    },
+    {
+      "id": "5",
+      "img": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/af31285e-f6a3-426e-bbea-0aedef9da17c1598892377537-Tommy-Hilfiger.jpg",
+      "title": "Tommy Hilfiger",
+      "category": "Mens"
+    },
+    {
+      "id": "6",
+      "img": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/cec595c6-c7ec-4259-af8b-997a33a09ce71598892377444-Puma.jpg",
+      "title": "Puma",
+      "category": "Mens"
+    },
+    {
+      "id": "7",
+      "img": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/8d5afb84-a464-40af-9971-2e9f0827e9b71598892377591-UCB.jpg",
+      "title": "UCB",
+      "category": "Mens"
+    },
+    {
+      "id": "8",
+      "img": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/1dce9c3e-77fa-48f1-85a3-d3c136c1d73e1598892377652-USPA.jpg",
+      "title": "USPA",
+      "category": "Mens"
+    },
+    {
+      "id": "9",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/25/085719b1-c71e-4f47-950c-9a6b7f291fac1598348260370-Jack-_-Jones.jpg",
+      "title": "Jack & Jones",
+      "category": "Mens"
+    },
+    {
+      "id": "10",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/5/774f42c4-f459-4514-9b90-cf8a60a5f68c1596644478087-hrx30.jpg",
+      "title": "HRX",
+      "category": "Mens"
+    },
+    {
+      "id": "11",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/25/a88b9390-5adb-493b-a1b3-702c59ccf53a1598348260502-Nike.jpg",
+      "title": "Nike",
+      "category": "Mens"
+    },
+    {
+      "id": "12",
+      "img": "https://constant.myntassets.com/pwa/assets/img/3fd040fc-431d-4060-9469-f0c11b7329121559216916380-women-category-cards_06_tshirts.jpg",
+      "title": "T-Shirts",
+      "category": "Womens"
+    },
+    {
+      "id": "13",
+      "img": "https://constant.myntassets.com/pwa/assets/img/4d76fbbe-d72b-4df3-86f9-59e7152b66b51559216916400-women-category-cards_04_kurta_Sets.jpg",
+      "title": "Kurta Sets",
+      "category": "Womens"
+    },
+    {
+      "id": "14",
+      "img": "https://constant.myntassets.com/pwa/assets/img/a876ce8c-5b1d-4b87-a5cd-626f20b8c1171559216916411-women-category-cards_03_tops.jpg",
+      "title": "Tops",
+      "category": "Womens"
+    },
+    {
+      "id": "15",
+      "img": "https://constant.myntassets.com/pwa/assets/img/b2d6cb61-2796-46ba-b813-bf723c8fc27e1559216808945-Men-category-cards_01_tshirts.jpg",
+      "title": "T-Shirts",
+      "category": "Mens"
+    },
+    {
+      "id": "16",
+      "img": "https://constant.myntassets.com/pwa/assets/img/1f2ab0ea-e6a3-4efe-b248-cbec95a900161559216808913-Men-category-cards_04_jeans.jpg",
+      "title": "Jeans",
+      "category": "Mens"
+    },
+    {
+      "id": "17",
+      "img": "https://constant.myntassets.com/pwa/assets/img/6916789c-0e4e-4e70-860b-7bed6af846681559216916445-women-category-cards_01_kurtas.jpg",
+      "title": "Kurtas",
+      "category": "Womens"
+    },
+    {
+      "id": "18",
+      "img": "https://constant.myntassets.com/pwa/assets/img/f8262050-fe52-4390-98b8-21c634e09bae1559216808891-Men-category-cards_06_trousers.jpg",
+      "title": "Trousers",
+      "category": "Mens"
+    },
+    {
+      "id": "19",
+      "img": "https://constant.myntassets.com/pwa/assets/img/c05e6606-cd11-4d96-895c-b1b8defc2d871559216808925-Men-category-cards_03_casual_shoes.jpg",
+      "title": "Casual Shoes",
+      "category": "Mens"
+    },
+    {
+      "id": "20",
+      "img": "https://constant.myntassets.com/pwa/assets/img/3c637a0a-0cda-45a7-8ce8-5bb212d4b6411559216808935-Men-category-cards_02_shirts.jpg",
+      "title": "Shirts",
+      "category": "Mens"
+    },
+    {
+      "id": "21",
+      "img": "https://constant.myntassets.com/pwa/assets/img/2a0ce60a-4d10-4e61-8c0a-f59f377213d51559216916390-women-category-cards_05_jeans.jpg",
+      "title": "Jeans",
+      "category": "Womens"
+    },
+    {
+      "id": "22",
+      "img": "https://constant.myntassets.com/pwa/assets/img/7a363be2-002c-45a0-96b0-30c359ab7f5b1559216916421-women-category-cards_02_dresses.jpg",
+      "title": "Dresses",
+      "category": "Womens"
+    },
+    {
+      "id": "23",
+      "img": "https://constant.myntassets.com/pwa/assets/img/ac2715e2-b2e6-41a8-9f91-79ed52d5eacb1559216808902-Men-category-cards_05_sports_shoes.jpg",
+      "title": "Sports Shoes",
+      "category": "Mens"
+    },
+    {
+      "id": "24",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/8becef46-f822-4874-b92a-a7cc7f58819d1597841103131-Content-sportswear-brand-nike.png",
+      "title": "Nike",
+      "category": "Mens"
+    },
+    {
+      "id": "25",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/65bafbc5-f83b-4158-8168-f7553043814c1597841103082-Content-sportswear-brand-Asics.png",
+      "title": "Asics",
+      "category": "Mens"
+    },
+    {
+      "id": "26",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/a84d687a-1ff3-4b06-a47b-48021ba7cec11597840342959-Content-footwear-occasion-outbackoutdoor.png",
+      "title": "Outdoor Footwear",
+      "category": "Mens"
+    },
+    {
+      "id": "27",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2020/8/20/be0b0d6f-7c72-4752-859f-ee44902ff7171597912691244-Content-footwear-trend-sneakersmen.jpg",
+      "title": "Sneakers",
+      "category": "Mens"
+    },
+    {
+      "id": "28",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/2bcf907c-bc21-44cb-9021-7575a963b0ef1595934830671-Content-Accesories-Unisex-True-wirless-lets-get-free.jpg",
+      "title": "True Wireless",
+      "category": "Mens"
+    },
+    {
+      "id": "29",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/49dd1ce9-d627-4c6e-b544-4be7e1f24a091597840342867-Content-footwear-essentials-flipflops.jpg",
+      "title": "Flip Flops",
+      "category": "Mens"
+    },
+    {
+      "id": "30",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/bddd9c73-e4f1-43c0-a073-2ff3c0e376b51595934830554-Content-Accesories-men-Sporty-Watches_.jpg",
+      "title": "Sporty Watches",
+      "category": "Mens"
+    },
+    {
+      "id": "31",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/8363b55c-446f-4de2-bc5b-e75fd6fdfb2d1597840217862-Content-accessories-brand-fastrack.png",
+      "title": "Fastrack",
+      "category": "Mens"
+    },
+    {
+      "id": "32",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/4aa58fe6-8c61-4e37-9fa8-436c31aecb211597840566511-Content-sportswear-essentials-activewear.png",
+      "title": "Activewear",
+      "category": "Mens"
+    },
+    {
+      "id": "33",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2020/8/21/eedc6c0c-c28b-4ccb-952f-a302c96c59ba1598030134978-Content-mostselling-Sportswear-Nikerevolution.jpeg",
+      "title": "Nike Revolution",
+      "category": "Mens"
+    },
+    {
+      "id": "34",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/647e166b-f645-443a-892d-df84ee345e781595935221231-Content-Footwear-men-Neutral-shades.jpg",
+      "title": "Neutral Shades",
+      "category": "Mens"
+    },
+    {
+      "id": "35",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/9654b0f9-42a9-4111-a4b7-27b26c5a22d41595935221284-Content-Footwear-Unisex-Sneakers-for-Dancers_.jpg",
+      "title": "Sneakers for Dancers",
+      "category": "Mens"
+    },
+    {
+      "id": "36",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/7472ab66-adf2-4d1d-9379-4770a73c1efe1597841103172-Content-sportswear-brand-proline.png",
+      "title": "Proline",
+      "category": "Mens"
+    },
+    {
+      "id": "37",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/274b3659-420d-43c2-8e4c-17249e6eaf8d1597840218139-Content-accessories-trend-minimalist.png",
+      "title": "Minimalist Accessories",
+      "category": "Mens"
+    },
+    {
+      "id": "38",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/83d9ca97-4aa3-46ce-bd28-b135d3b94a021595935030673-Content-ethnicwear-essentials-everydaykurtas.jpg",
+      "title": "Everyday Kurtas",
+      "category": "Mens"
+    },
+    {
+      "id": "39",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/9e4fb95e-6268-49c5-9ed1-e6b1bd4b5efd1595935030880-Content-ethnicwear-trend-fashionmeetcomfort.jpg",
+      "title": "Fashion Meets Comfort",
+      "category": "Mens"
+    }
+  ],
+  "user": [
+    {
+      "FirstName": "puneeth",
+      "LastName": "s",
+      "Email": "puneethsreenivasan@codegnan.com",
+      "gender": "male",
+      "Address": "qwertyu iopsdfghjklasdfghhjj",
+      "Password": "Puneeths@2001",
+      "Phone": "7996115319",
+      "ConfirmPassword": "Puneeths@2001",
+      "id": "oRLL6yOUN2Y"
+    },
+    {
+      "FirstName": "puneeth",
+      "LastName": "s",
+      "Email": "puneethsreenivasan@codegnan.com",
+      "gender": "male",
+      "Address": "qwertyu iopsdfghjklasdfghhjj",
+      "Password": "Puneeths@2001",
+      "Phone": "7996115319",
+      "ConfirmPassword": "Puneeths@2001",
+      "id": "QzaHm2MxrDg"
+    },
+    {
+      "FirstName": "puneeths",
+      "LastName": "s",
+      "Email": "P@gmail.com",
+      "gender": "male",
+      "Address": "fcdghcdchdvchdcvdjchv",
+      "Password": "qwertyuiop",
+      "Phone": "6234567890",
+      "ConfirmPassword": "qwertyuiop",
+      "id": "NltiXB59D38"
+    },
+    {
+      "FirstName": "puneeths",
+      "LastName": "s",
+      "Email": "P@gmail.com",
+      "gender": "male",
+      "Address": "fcdghcdchdvchdcvdjchv",
+      "Password": "qwertyuiop",
+      "Phone": "6234567890",
+      "ConfirmPassword": "qwertyuiop",
+      "id": "YB4GgxR7Wqo"
+    },
+    {
+      "FirstName": "puneeths",
+      "LastName": "s",
+      "Email": "P@gmail.com",
+      "gender": "male",
+      "Address": "fcdghcdchdvchdcvdjchv",
+      "Password": "qwertyuiop",
+      "Phone": "6234567890",
+      "ConfirmPassword": "qwertyuiop",
+      "id": "EhGvC3Z5s_0"
+    },
+    {
+      "FirstName": "puneeths",
+      "LastName": "s",
+      "Email": "g@gmail.com",
+      "gender": "male",
+      "Address": "safsdghfdjgkg",
+      "Password": "qwertyuiop",
+      "Phone": "6543217890",
+      "ConfirmPassword": "qwertyuiop",
+      "id": "yTyiMTEtyOw"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "img": "https://assets.myntassets.com/w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/af31285e-f6a3-426e-bbea-0aedef9da17c1598892377537-Tommy-Hilfiger.jpg",
+      "name": "Tommy Hilfiger",
+      "price": 4999,
+      "category": "Mens",
+      "description": "Stylish Tommy Hilfiger fashion collection for men with a premium and modern look.",
+      "rating": 4.5,
+      "reviews": 120
+    },
+    {
+      "id": "2",
+      "img": "https://assets.myntassets.com/w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/cec595c6-c7ec-4259-af8b-997a33a09ce71598892377444-Puma.jpg",
+      "name": "Puma",
+      "price": 3499,
+      "category": "Mens",
+      "description": "Puma men's collection designed for a sporty, comfortable and fashionable lifestyle.",
+      "rating": 4.4,
+      "reviews": 98
+    },
+    {
+      "id": "3",
+      "img": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/0206da63-a7cc-4f83-8527-90d7dc74706b1598892377489-Skechers.jpg",
+      "name": "Skechers",
+      "price": 3999,
+      "category": "Mens",
+      "description": "Skechers men's footwear collection offering comfort, durability and everyday style.",
+      "rating": 4.6,
+      "reviews": 145
+    },
+    {
+      "id": "4",
+      "img": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/d977e7ac-67dd-4fa6-b922-fe0057385dfa1598892377205-Crocs.jpg",
+      "name": "Crocs",
+      "price": 2999,
+      "category": "Mens",
+      "description": "Comfortable Crocs footwear designed for casual everyday use.",
+      "rating": 4.5,
+      "reviews": 132
+    },
+    {
+      "id": "5",
+      "img": "https://assets.myntassets.com/w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/3fa337a0-c792-4038-8d12-50d463c189a11598892377363-Levis.jpg",
+      "name": "Levis",
+      "price": 3999,
+      "category": "Mens",
+      "description": "Levis men's collection featuring classic denim styles and modern casual wear.",
+      "rating": 4.6,
+      "reviews": 210
+    },
+    {
+      "id": "6",
+      "img": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/1dce9c3e-77fa-48f1-85a3-d3c136c1d73e1598892377652-USPA.jpg",
+      "name": "U.S. Polo Assn.",
+      "price": 3299,
+      "category": "Mens",
+      "description": "U.S. Polo Assn. men's collection combining classic designs with contemporary fashion.",
+      "rating": 4.4,
+      "reviews": 156
+    },
+    {
+      "id": "7",
+      "img": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/3fa337a0-c792-4038-8d12-50d463c189a11598892377363-Levis.jpg",
+      "name": "Levis Classic Collection",
+      "price": 4299,
+      "category": "Mens",
+      "description": "Classic Levis fashion collection featuring timeless men's casual styles.",
+      "rating": 4.5,
+      "reviews": 184
+    },
+    {
+      "id": "8",
+      "img": "https://assets.myntassets.com/f_webp,w_200,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/a7d3676a-9694-4a84-835e-0408fdad884b1598892377407-Nike.jpg",
+      "name": "Nike",
+      "price": 5999,
+      "category": "Mens",
+      "description": "Nike men's sportswear collection designed for performance, comfort and style.",
+      "rating": 4.7,
+      "reviews": 245
+    },
+    {
+      "id": "9",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/5/774f42c4-f459-4514-9b90-cf8a60a5f68c1596644478087-hrx30.jpg",
+      "name": "HRX",
+      "price": 1999,
+      "category": "Mens",
+      "description": "HRX men's activewear designed for workouts, fitness and everyday comfort.",
+      "rating": 4.3,
+      "reviews": 87
+    },
+    {
+      "id": "10",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/5/178c1e5d-69f2-402f-a2a5-ef44700a0f691596640983793-Roadster---.jpg",
+      "name": "Roadster",
+      "price": 1799,
+      "category": "Mens",
+      "description": "Roadster men's casual fashion collection with trendy and comfortable everyday styles.",
+      "rating": 4.2,
+      "reviews": 76
+    },
+    {
+      "id": "11",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/25/a88b9390-5adb-493b-a1b3-702c59ccf53a1598348260502-Nike.jpg",
+      "name": "Nike Sportswear",
+      "price": 5499,
+      "category": "Mens",
+      "description": "Nike sportswear collection offering modern athletic designs and everyday comfort.",
+      "rating": 4.6,
+      "reviews": 164
+    },
+    {
+      "id": "12",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/25/a88b9390-5adb-493b-a1b3-702c59ccf53a1598348260502-Nike.jpg",
+      "name": "Nike Performance",
+      "price": 6499,
+      "category": "Mens",
+      "description": "Nike performance collection designed for active lifestyles and sports activities.",
+      "rating": 4.7,
+      "reviews": 198
+    },
+    {
+      "id": "13",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/25/085719b1-c71e-4f47-950c-9a6b7f291fac1598348260370-Jack-_-Jones.jpg",
+      "name": "Jack & Jones",
+      "price": 2799,
+      "category": "Mens",
+      "description": "Jack & Jones men's collection featuring contemporary casual and smart-casual styles.",
+      "rating": 4.4,
+      "reviews": 113
+    },
+    {
+      "id": "14",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/25/c9f66558-feab-4d76-aa3c-adc68d81dce21598348260415-Levis.jpg",
+      "name": "Levis Denim",
+      "price": 3999,
+      "category": "Mens",
+      "description": "Levis denim collection featuring comfortable and stylish jeans for men.",
+      "rating": 4.5,
+      "reviews": 172
+    },
+    {
+      "id": "15",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/5/774f42c4-f459-4514-9b90-cf8a60a5f68c1596644478087-hrx30.jpg",
+      "name": "HRX Activewear",
+      "price": 2199,
+      "category": "Mens",
+      "description": "HRX activewear collection designed for workouts, running and fitness activities.",
+      "rating": 4.3,
+      "reviews": 94
+    },
+    {
+      "id": "16",
+      "img": "https://constant.myntassets.com/pwa/assets/img/c05e6606-cd11-4d96-895c-b1b8defc2d871559216808925-Men-category-cards_03_casual_shoes.jpg",
+      "name": "Men Casual Shoes",
+      "price": 2499,
+      "category": "Mens",
+      "description": "Stylish casual shoes for men suitable for everyday wear and outings.",
+      "rating": 4.4,
+      "reviews": 108
+    },
+    {
+      "id": "17",
+      "img": "https://constant.myntassets.com/pwa/assets/img/b2d6cb61-2796-46ba-b813-bf723c8fc27e1559216808945-Men-category-cards_01_tshirts.jpg",
+      "name": "Men T-Shirts",
+      "price": 1299,
+      "category": "Mens",
+      "description": "Comfortable and stylish men's t-shirts suitable for casual everyday wear.",
+      "rating": 4.3,
+      "reviews": 91
+    },
+    {
+      "id": "18",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/274b3659-420d-43c2-8e4c-17249e6eaf8d1597840218139-Content-accessories-trend-minimalist.png",
+      "name": "Minimalist Accessories",
+      "price": 999,
+      "category": "Mens",
+      "description": "Minimalist accessories designed to complement modern men's outfits.",
+      "rating": 4.2,
+      "reviews": 65
+    },
+    {
+      "id": "19",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/9654b0f9-42a9-4111-a4b7-27b26c5a22d41595935221284-Content-Footwear-Unisex-Sneakers-for-Dancers_.jpg",
+      "name": "Sneakers for Dancers",
+      "price": 2999,
+      "category": "Mens",
+      "description": "Flexible and stylish sneakers suitable for dancing, casual wear and active lifestyles.",
+      "rating": 4.5,
+      "reviews": 119
+    },
+    {
+      "id": "20",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/647e166b-f645-443a-892d-df84ee345e781595935221231-Content-Footwear-men-Neutral-shades.jpg",
+      "name": "Men Neutral Shade Footwear",
+      "price": 2799,
+      "category": "Mens",
+      "description": "Versatile men's footwear in neutral shades designed for easy everyday styling.",
+      "rating": 4.4,
+      "reviews": 82
+    },
+    {
+      "id": "21",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/49dd1ce9-d627-4c6e-b544-4be7e1f24a091597840342867-Content-footwear-essentials-flipflops.jpg",
+      "name": "Men Flip Flops",
+      "price": 899,
+      "category": "Mens",
+      "description": "Lightweight and comfortable flip flops designed for everyday casual use.",
+      "rating": 4.2,
+      "reviews": 73
+    },
+    {
+      "id": "22",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/7/28/9d248917-d1b0-4910-8de0-4ed7c2b4af8e1595935030939-Content-ethnicwear-trends-printedkurtaset.jpg",
+      "name": "Men Printed Kurta Set",
+      "price": 2299,
+      "category": "Mens",
+      "description": "Trendy printed kurta set designed for festive occasions and traditional celebrations.",
+      "rating": 4.4,
+      "reviews": 96
+    },
+    {
+      "id": "23",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/a9f68785-e282-425a-b270-c978c387b0f31597840342635-Content-ethnicwear-color-whites.jpg",
+      "name": "Men White Ethnic Wear",
+      "price": 2499,
+      "category": "Mens",
+      "description": "Elegant white ethnic wear collection for men suitable for festive and traditional occasions.",
+      "rating": 4.5,
+      "reviews": 88
+    },
+    {
+      "id": "24",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/8363b55c-446f-4de2-bc5b-e75fd6fdfb2d1597840217862-Content-accessories-brand-fastrack.png",
+      "name": "Fastrack Accessories",
+      "price": 1999,
+      "category": "Mens",
+      "description": "Fastrack accessories collection featuring modern designs for men's everyday styling.",
+      "rating": 4.3,
+      "reviews": 104
+    },
+    {
+      "id": "25",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/65bafbc5-f83b-4158-8168-f7553043814c1597841103082-Content-sportswear-brand-Asics.png",
+      "name": "Asics Sportswear",
+      "price": 4999,
+      "category": "Mens",
+      "description": "Asics sportswear designed for performance, training and comfortable active lifestyles.",
+      "rating": 4.6,
+      "reviews": 137
+    },
+    {
+      "id": "26",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/5e68d729-b955-431c-930c-931d8b452d421597840217983-Content-accessories-color-white.png",
+      "name": "White Accessories",
+      "price": 1199,
+      "category": "Mens",
+      "description": "Clean and versatile white accessories designed to complement men's outfits.",
+      "rating": 4.2,
+      "reviews": 61
+    },
+    {
+      "id": "27",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2020/8/21/eedc6c0c-c28b-4ccb-952f-a302c96c59ba1598030134978-Content-mostselling-Sportswear-Nikerevolution.jpeg",
+      "name": "Nike Revolution Sportswear",
+      "price": 4499,
+      "category": "Mens",
+      "description": "Nike Revolution sportswear collection combining athletic performance with everyday comfort.",
+      "rating": 4.6,
+      "reviews": 156
+    },
+    {
+      "id": "28",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/19/8becef46-f822-4874-b92a-a7cc7f58819d1597841103131-Content-sportswear-brand-nike.png",
+      "name": "Nike Sportswear Collection",
+      "price": 5299,
+      "category": "Mens",
+      "description": "Nike men's sportswear collection featuring stylish athletic apparel and footwear.",
+      "rating": 4.7,
+      "reviews": 203
+    }
+  ],
+  "cart": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}

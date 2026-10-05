@@ -1,0 +1,35 @@
+.login-container{
+    width: 100%;
+    height: 100vh;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.login-form {
+  padding: 20px 100px;
+  display: flex;
+  flex-flow: column;
+
+  gap: 20px;
+  background-color: black;
+  color: white;
+}
+
+.login-form > div> label {
+    font-size: larger;
+    padding-right: 20px;
+}
+
+.login-form >div> input {
+  border: none;
+  outline: none;
+  background: none;
+  border-bottom: 1px solid white;
+  font-size: 20px;
+  color: white;
+
+}
